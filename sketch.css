@@ -1,0 +1,13 @@
+body {
+    background-color: peru;
+}
+button{
+    margin: auto;
+    display: block;
+    margin-top: 50px;
+    padding: 10px;
+    width: 100px;
+    background-color: red;
+    border-width: 1px;
+    border-radius: 5px;
+}
